@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello there 🙌
 
-- I'm currently learning Security
-- I am always welcome to suggestions
-- I love to code and design.
+- I am a UI/UX designer and Front-end developer
+- I love to solve problems
+- I am welcome to collaborations
 
 
