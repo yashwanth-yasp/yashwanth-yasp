@@ -1,7 +1,3 @@
-### Hello there 🙌
-
-- I am a UI/UX designer and Front-end developer
-- I love to solve problems
-- I am welcome to collaborations
-
+heyy there 
+I am ydg, I am a devops engineer and a product designer. I like to write, code and design. 
 
